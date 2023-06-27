@@ -9,3 +9,11 @@ https://github.com/dinesh061/Amazon-clone--mern-website/assets/115059054/80c019a
 
 https://github.com/dinesh061/Amazon-clone--mern-website/assets/115059054/6b25b0bb-336e-4da9-887e-645035bb8ba6
 
+
+- Landing page with a list of featured categories and featured products
+- Product Listing page
+- Sort and filter products
+- Authentication
+- Wishlist Management
+- Cart Management
+- Product Details page
