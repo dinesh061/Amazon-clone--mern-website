@@ -21,16 +21,16 @@ FEATURES
 
 BUILDIND USING
 client
-react: "^18.2.0"
-axios: "^1.2.1",
-bootstrap: "^5.2.3",
-react-router-dom:" ^6.6.1"
+-react: "^18.2.0"
+-axios: "^1.2.1",
+-bootstrap: "^5.2.3",
+-react-router-dom:" ^6.6.1"
 server
-express: "^4.17.2",
-bcryptjs: "^2.4.3",
-cloudinary: "^1.28.1",
-cors: "^2.8.5",
-dotenv: "^10.0.0",
-jsonwebtoken: "^8.5.1",
-mailgun-js: "^0.22.0",
-mongoose: "^6.1.5"
+-express: "^4.17.2",
+-bcryptjs: "^2.4.3",
+-cloudinary: "^1.28.1",
+-cors: "^2.8.5",
+-dotenv: "^10.0.0",
+-jsonwebtoken: "^8.5.1",
+-mailgun-js: "^0.22.0",
+-mongoose: "^6.1.5"
