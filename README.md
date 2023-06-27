@@ -9,6 +9,7 @@ https://github.com/dinesh061/Amazon-clone--mern-website/assets/115059054/80c019a
 
 https://github.com/dinesh061/Amazon-clone--mern-website/assets/115059054/6b25b0bb-336e-4da9-887e-645035bb8ba6
 
+FEATURES
 
 - Landing page with a list of featured categories and featured products
 - Product Listing page
@@ -17,3 +18,19 @@ https://github.com/dinesh061/Amazon-clone--mern-website/assets/115059054/6b25b0b
 - Wishlist Management
 - Cart Management
 - Product Details page
+
+BUILDIND USING
+client
+react: "^18.2.0"
+axios: "^1.2.1",
+bootstrap: "^5.2.3",
+react-router-dom:" ^6.6.1"
+server
+express: "^4.17.2",
+bcryptjs: "^2.4.3",
+cloudinary: "^1.28.1",
+cors: "^2.8.5",
+dotenv: "^10.0.0",
+jsonwebtoken: "^8.5.1",
+mailgun-js: "^0.22.0",
+mongoose: "^6.1.5"
