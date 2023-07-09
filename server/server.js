@@ -12,7 +12,7 @@ import uploadRouter from "./routes/uploadRoutes.js";
 dotenv.config();
 
 mongoose
-  .connect("mongodb+srv://mern-amazon:dinesh@cluster0.xw7o9ub.mongodb.net/amazon_mern?retryWrites=true&w=majority/Amazono")
+  .connect("mongodb+srv://mern-amazon:dinesh@cluster0.xw7o9ub.mongodb.net/amazon_mern?retryWrites=true&w=majority")
   .then(() => {
     console.log("connected to db");
   })
