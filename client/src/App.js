@@ -87,7 +87,8 @@ function App() {
               </Button>
 
               <LinkContainer to="/">
-                <Navbar.Brand>Dinesh & Co</Navbar.Brand>
+                <Navbar.Brand>Dinesh
+                    </Navbar.Brand>
               </LinkContainer>
               <Navbar.Toggle aria-controls="basic-navbar-nav" />
               <Navbar.Collapse id="basic-navbar-nav">
