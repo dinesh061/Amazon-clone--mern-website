@@ -87,7 +87,7 @@ function App() {
               </Button>
 
               <LinkContainer to="/">
-                <Navbar.Brand>Dinesh
+                <Navbar.Brand>DKG Bazaar
                     </Navbar.Brand>
               </LinkContainer>
               <Navbar.Toggle aria-controls="basic-navbar-nav" />
